@@ -31,7 +31,7 @@ You will need the files in this git repository to complete this assignment.
 * No UML diagram is required for this lab.
 
 ## Requirement Notes
-* There are multiple correct methods for rebalancing nodes in an AVL tree; each method may result in a unique tree. Some conventions will need to be used to ensure that your tree properly matches ours. When rebalancing, refer to HERE for more detailed information on proper balancing.
+* There are multiple correct methods for rebalancing nodes in an AVL tree; each method may result in a unique tree. Some conventions will need to be used to ensure that your tree properly matches ours. When rebalancing, refer to [this simulation](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html) for more detailed information on proper balancing.
 * You should remove nodes from the AVL tree in the same manner used for the BST.
 * Remember to disallow duplicate entries and handle the case when the element to be removed is not in the tree
 * You are required to write a separate '.h' and '.cpp' for every class you implement.
