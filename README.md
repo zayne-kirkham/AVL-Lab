@@ -1,4 +1,4 @@
-# Lab8-AVL
+# AVL Lab
 
 ## Purpose
 This lab assignment focuses on self-balancing binary search trees.
